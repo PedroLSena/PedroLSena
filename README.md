@@ -1,7 +1,6 @@
-Oi, eu sou o Pedro 👋
+Oi, eu sou o Pedro 👋  
 
-
-Estudanto de Tecnologia e fascinado pro programação!!
+Estudante de Tecnologia e apaixonado por programação! 🚀💻
 
 Tecnologias que estou usando:
 
