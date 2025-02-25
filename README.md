@@ -3,7 +3,7 @@ Oi, eu sou o Pedro 👋
 
 Estudanto de Tecnologia e fascinado pro programação!!
 
-Tecnoligias que estou usando:
+Tecnologias que estou usando:
 
 <div style="display: inline_block">
     <br>
